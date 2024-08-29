@@ -12434,3 +12434,562 @@
 [2024-08-29 13:31:59] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\DELL\AppData\Local\Temp/66d0784fe458c-0lggie.tmp
 [2024-08-29 13:31:59] [class-ss-page-handler.php:38] URL Prepared:http://localhost/mystore/mystore/wp-content/uploads/elementor/css/post-157.css?simply_static_page=1669
 [2024-08-29 13:31:59] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/mystore/mystore/wp-content/uploads/elementor/css/post-157.css?simply_static_page=1669
+[2024-08-29 13:32:00] [class-ss-url-fetcher.php:103] Filesize: 7746 bytes
+[2024-08-29 13:32:00] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-08-29 13:32:00] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/elementor/css/post-157.css
+[2024-08-29 13:32:00] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\DELL\AppData\Local\Temp/66d0784fe458c-0lggie.tmp to C:\xampp\htdocs\mystore\mystore/wp-content/uploads\simply-static\temp-files/simply-static-1-1724937788/wp-content/uploads/elementor/css/post-157.css
+[2024-08-29 13:32:00] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-29 13:32:00] [class-ss-fetch-urls-task.php:159] Adding 2 URLs to the queue
+[2024-08-29 13:32:00] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-29 13:32:00] [class-ss-page.php:119] Checking Content Identical:1ba4bb8f2e88292183f9ce76d975b3d77de2f82e===. Value: FALSE
+[2024-08-29 13:32:00] [class-ss-fetch-urls-task.php:72] URL: http://localhost/mystore/mystore/wp-json/wp/v2/product/157
+[2024-08-29 13:32:00] [class-ss-task.php:58] [PAGES STATUS] Remaining:46; Total: 920
+[2024-08-29 13:32:00] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-29 13:32:00] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\DELL\AppData\Local\Temp/66d07850769b3-E9kglH.tmp
+[2024-08-29 13:32:00] [class-ss-page-handler.php:38] URL Prepared:http://localhost/mystore/mystore/wp-json/wp/v2/product/157?simply_static_page=1670
+[2024-08-29 13:32:00] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/mystore/mystore/wp-json/wp/v2/product/157?simply_static_page=1670
+[2024-08-29 13:32:07] [class-ss-url-fetcher.php:103] Filesize: 20445 bytes
+[2024-08-29 13:32:07] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/json; charset=UTF-8
+[2024-08-29 13:32:07] [class-ss-url-fetcher.php:233] New filename for static page: /wp-json/wp/v2/product/157\index.html
+[2024-08-29 13:32:07] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\DELL\AppData\Local\Temp/66d07850769b3-E9kglH.tmp to C:\xampp\htdocs\mystore\mystore/wp-content/uploads\simply-static\temp-files/simply-static-1-1724937788/wp-json/wp/v2/product/157\index.html
+[2024-08-29 13:32:07] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-29 13:32:07] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-08-29 13:32:07] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-29 13:32:07] [class-ss-page.php:119] Checking Content Identical:c907b2a033f41827d6762176d1c48ecf7645ba73===. Value: FALSE
+[2024-08-29 13:32:07] [class-ss-fetch-urls-task.php:72] URL: http://localhost/mystore/mystore/store/page/1/
+[2024-08-29 13:32:07] [class-ss-task.php:58] [PAGES STATUS] Remaining:45; Total: 920
+[2024-08-29 13:32:07] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-29 13:32:07] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\DELL\AppData\Local\Temp/66d0785738452-bgizF6.tmp
+[2024-08-29 13:32:07] [class-ss-page-handler.php:38] URL Prepared:http://localhost/mystore/mystore/store/page/1/?simply_static_page=1671
+[2024-08-29 13:32:07] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/mystore/mystore/store/page/1/?simply_static_page=1671
+[2024-08-29 13:32:14] [class-ss-url-fetcher.php:103] Filesize: 0 bytes
+[2024-08-29 13:32:14] [class-ss-url-fetcher.php:119] http_status_code: 301 | content_type: text/html; charset=UTF-8
+[2024-08-29 13:32:14] [class-ss-url-fetcher.php:147] We weren't able to establish a filename; deleting temp file
+[2024-08-29 13:32:14] [class-ss-fetch-urls-task.php:204] redirect_url: http://localhost/mystore/mystore/store/
+[2024-08-29 13:32:14] [class-ss-fetch-urls-task.php:231] Redirect URL is on the same domain; adding the URL to the queue
+[2024-08-29 13:32:14] [class-ss-fetch-urls-task.php:243] Creating a redirect page
+[2024-08-29 13:32:14] [class-ss-url-fetcher.php:233] New filename for static page: /store/page/1/index.html
+[2024-08-29 13:32:14] [class-ss-page.php:119] Checking Content Identical:1dbfc7f6638044643dc1772a85479e10dc4aa206===. Value: FALSE
+[2024-08-29 13:32:14] [class-ss-fetch-urls-task.php:72] URL: http://localhost/mystore/mystore/product/red-hoodie/
+[2024-08-29 13:32:14] [class-ss-task.php:58] [PAGES STATUS] Remaining:44; Total: 920
+[2024-08-29 13:32:14] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-29 13:32:14] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\DELL\AppData\Local\Temp/66d0785ef1a7d-7MNSoF.tmp
+[2024-08-29 13:32:14] [class-ss-page-handler.php:38] URL Prepared:http://localhost/mystore/mystore/product/red-hoodie/?simply_static_page=1672
+[2024-08-29 13:32:14] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/mystore/mystore/product/red-hoodie/?simply_static_page=1672
+[2024-08-29 13:32:24] [class-ss-url-fetcher.php:103] Filesize: 233787 bytes
+[2024-08-29 13:32:24] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/html; charset=UTF-8
+[2024-08-29 13:32:24] [class-ss-url-fetcher.php:233] New filename for static page: /product/red-hoodie/index.html
+[2024-08-29 13:32:24] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\DELL\AppData\Local\Temp/66d0785ef1a7d-7MNSoF.tmp to C:\xampp\htdocs\mystore\mystore/wp-content/uploads\simply-static\temp-files/simply-static-1-1724937788/product/red-hoodie/index.html
+[2024-08-29 13:32:24] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-29 13:32:27] [class-ss-fetch-urls-task.php:159] Adding 113 URLs to the queue
+[2024-08-29 13:32:28] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-29 13:32:28] [class-ss-page.php:119] Checking Content Identical:91f3449c4c6a0a6a8b09d2ec4adeaf786de0f3e9===. Value: FALSE
+[2024-08-29 13:32:28] [class-ss-fetch-urls-task.php:72] URL: http://localhost/mystore/mystore/wp-content/uploads/2017/12/product-hoodie4.jpg-300x300.jpg
+[2024-08-29 13:32:28] [class-ss-task.php:58] [PAGES STATUS] Remaining:43; Total: 920
+[2024-08-29 13:32:28] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-29 13:32:28] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\DELL\AppData\Local\Temp/66d0786c793d5-IaBpzO.tmp
+[2024-08-29 13:32:28] [class-ss-page-handler.php:38] URL Prepared:http://localhost/mystore/mystore/wp-content/uploads/2017/12/product-hoodie4.jpg-300x300.jpg?simply_static_page=1673
+[2024-08-29 13:32:28] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/mystore/mystore/wp-content/uploads/2017/12/product-hoodie4.jpg-300x300.jpg?simply_static_page=1673
+[2024-08-29 13:32:28] [class-ss-url-fetcher.php:103] Filesize: 11219 bytes
+[2024-08-29 13:32:28] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2024-08-29 13:32:28] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2017/12/product-hoodie4.jpg-300x300.jpg
+[2024-08-29 13:32:28] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\DELL\AppData\Local\Temp/66d0786c793d5-IaBpzO.tmp to C:\xampp\htdocs\mystore\mystore/wp-content/uploads\simply-static\temp-files/simply-static-1-1724937788/wp-content/uploads/2017/12/product-hoodie4.jpg-300x300.jpg
+[2024-08-29 13:32:28] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-29 13:32:28] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-08-29 13:32:28] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-29 13:32:28] [class-ss-page.php:119] Checking Content Identical:04d84e11e8e77934208527cf2f0b2db26e9eee23===. Value: FALSE
+[2024-08-29 13:32:28] [class-ss-fetch-urls-task.php:72] URL: http://localhost/mystore/mystore/wp-content/uploads/2017/12/product-hoodie4.jpg-100x100.jpg
+[2024-08-29 13:32:28] [class-ss-task.php:58] [PAGES STATUS] Remaining:42; Total: 920
+[2024-08-29 13:32:28] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-29 13:32:28] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\DELL\AppData\Local\Temp/66d0786ca31e2-AUzSZZ.tmp
+[2024-08-29 13:32:28] [class-ss-page-handler.php:38] URL Prepared:http://localhost/mystore/mystore/wp-content/uploads/2017/12/product-hoodie4.jpg-100x100.jpg?simply_static_page=1674
+[2024-08-29 13:32:28] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/mystore/mystore/wp-content/uploads/2017/12/product-hoodie4.jpg-100x100.jpg?simply_static_page=1674
+[2024-08-29 13:32:28] [class-ss-url-fetcher.php:103] Filesize: 2543 bytes
+[2024-08-29 13:32:28] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2024-08-29 13:32:28] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2017/12/product-hoodie4.jpg-100x100.jpg
+[2024-08-29 13:32:28] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\DELL\AppData\Local\Temp/66d0786ca31e2-AUzSZZ.tmp to C:\xampp\htdocs\mystore\mystore/wp-content/uploads\simply-static\temp-files/simply-static-1-1724937788/wp-content/uploads/2017/12/product-hoodie4.jpg-100x100.jpg
+[2024-08-29 13:32:28] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-29 13:32:28] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-08-29 13:32:28] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-29 13:32:28] [class-ss-page.php:119] Checking Content Identical:f21af651fd254898d37776adcc7add33088d42fd===. Value: FALSE
+[2024-08-29 13:32:28] [class-ss-fetch-urls-task.php:72] URL: http://localhost/mystore/mystore/wp-content/uploads/2017/12/product-hoodie4.jpg-600x600.jpg
+[2024-08-29 13:32:28] [class-ss-task.php:58] [PAGES STATUS] Remaining:41; Total: 920
+[2024-08-29 13:32:28] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-29 13:32:28] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\DELL\AppData\Local\Temp/66d0786cbb867-aqyupN.tmp
+[2024-08-29 13:32:28] [class-ss-page-handler.php:38] URL Prepared:http://localhost/mystore/mystore/wp-content/uploads/2017/12/product-hoodie4.jpg-600x600.jpg?simply_static_page=1675
+[2024-08-29 13:32:28] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/mystore/mystore/wp-content/uploads/2017/12/product-hoodie4.jpg-600x600.jpg?simply_static_page=1675
+[2024-08-29 13:32:28] [class-ss-url-fetcher.php:103] Filesize: 40783 bytes
+[2024-08-29 13:32:28] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2024-08-29 13:32:28] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2017/12/product-hoodie4.jpg-600x600.jpg
+[2024-08-29 13:32:28] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\DELL\AppData\Local\Temp/66d0786cbb867-aqyupN.tmp to C:\xampp\htdocs\mystore\mystore/wp-content/uploads\simply-static\temp-files/simply-static-1-1724937788/wp-content/uploads/2017/12/product-hoodie4.jpg-600x600.jpg
+[2024-08-29 13:32:28] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-29 13:32:28] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-08-29 13:32:28] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-29 13:32:28] [class-ss-page.php:119] Checking Content Identical:efd738f036d5117ed55777bd9d4233c6b53a8105===. Value: FALSE
+[2024-08-29 13:32:28] [class-ss-fetch-urls-task.php:72] URL: http://localhost/mystore/mystore/wp-content/uploads/2017/12/product-hoodie4.jpg-1024x1024.jpg
+[2024-08-29 13:32:28] [class-ss-task.php:58] [PAGES STATUS] Remaining:40; Total: 920
+[2024-08-29 13:32:28] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-29 13:32:28] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\DELL\AppData\Local\Temp/66d0786cd6efb-nsY8S4.tmp
+[2024-08-29 13:32:28] [class-ss-page-handler.php:38] URL Prepared:http://localhost/mystore/mystore/wp-content/uploads/2017/12/product-hoodie4.jpg-1024x1024.jpg?simply_static_page=1676
+[2024-08-29 13:32:28] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/mystore/mystore/wp-content/uploads/2017/12/product-hoodie4.jpg-1024x1024.jpg?simply_static_page=1676
+[2024-08-29 13:32:28] [class-ss-url-fetcher.php:103] Filesize: 107389 bytes
+[2024-08-29 13:32:28] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2024-08-29 13:32:28] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2017/12/product-hoodie4.jpg-1024x1024.jpg
+[2024-08-29 13:32:28] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\DELL\AppData\Local\Temp/66d0786cd6efb-nsY8S4.tmp to C:\xampp\htdocs\mystore\mystore/wp-content/uploads\simply-static\temp-files/simply-static-1-1724937788/wp-content/uploads/2017/12/product-hoodie4.jpg-1024x1024.jpg
+[2024-08-29 13:32:29] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-29 13:32:29] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-08-29 13:32:29] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-29 13:32:29] [class-ss-page.php:119] Checking Content Identical:b2125639857f9f49fbf10ac000582f97e32d40a1===. Value: FALSE
+[2024-08-29 13:32:29] [class-ss-fetch-urls-task.php:72] URL: http://localhost/mystore/mystore/wp-content/uploads/2017/12/product-hoodie4.jpg-150x150.jpg
+[2024-08-29 13:32:29] [class-ss-task.php:58] [PAGES STATUS] Remaining:39; Total: 920
+[2024-08-29 13:32:29] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-29 13:32:29] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\DELL\AppData\Local\Temp/66d0786d18ad7-xrorZM.tmp
+[2024-08-29 13:32:29] [class-ss-page-handler.php:38] URL Prepared:http://localhost/mystore/mystore/wp-content/uploads/2017/12/product-hoodie4.jpg-150x150.jpg?simply_static_page=1677
+[2024-08-29 13:32:29] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/mystore/mystore/wp-content/uploads/2017/12/product-hoodie4.jpg-150x150.jpg?simply_static_page=1677
+[2024-08-29 13:32:29] [class-ss-url-fetcher.php:103] Filesize: 4177 bytes
+[2024-08-29 13:32:29] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2024-08-29 13:32:29] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2017/12/product-hoodie4.jpg-150x150.jpg
+[2024-08-29 13:32:29] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\DELL\AppData\Local\Temp/66d0786d18ad7-xrorZM.tmp to C:\xampp\htdocs\mystore\mystore/wp-content/uploads\simply-static\temp-files/simply-static-1-1724937788/wp-content/uploads/2017/12/product-hoodie4.jpg-150x150.jpg
+[2024-08-29 13:32:29] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-29 13:32:29] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-08-29 13:32:29] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-29 13:32:29] [class-ss-page.php:119] Checking Content Identical:6aa0c59bd546da8a4259949c7534f2c32fa90be8===. Value: FALSE
+[2024-08-29 13:32:29] [class-ss-fetch-urls-task.php:72] URL: http://localhost/mystore/mystore/wp-content/uploads/2017/12/product-hoodie4.jpg-768x768.jpg
+[2024-08-29 13:32:29] [class-ss-task.php:58] [PAGES STATUS] Remaining:38; Total: 920
+[2024-08-29 13:32:29] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-29 13:32:29] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\DELL\AppData\Local\Temp/66d0786d33540-N1hjFz.tmp
+[2024-08-29 13:32:29] [class-ss-page-handler.php:38] URL Prepared:http://localhost/mystore/mystore/wp-content/uploads/2017/12/product-hoodie4.jpg-768x768.jpg?simply_static_page=1678
+[2024-08-29 13:32:29] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/mystore/mystore/wp-content/uploads/2017/12/product-hoodie4.jpg-768x768.jpg?simply_static_page=1678
+[2024-08-29 13:32:29] [class-ss-url-fetcher.php:103] Filesize: 61347 bytes
+[2024-08-29 13:32:29] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2024-08-29 13:32:29] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2017/12/product-hoodie4.jpg-768x768.jpg
+[2024-08-29 13:32:29] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\DELL\AppData\Local\Temp/66d0786d33540-N1hjFz.tmp to C:\xampp\htdocs\mystore\mystore/wp-content/uploads\simply-static\temp-files/simply-static-1-1724937788/wp-content/uploads/2017/12/product-hoodie4.jpg-768x768.jpg
+[2024-08-29 13:32:29] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-29 13:32:29] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-08-29 13:32:29] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-29 13:32:29] [class-ss-page.php:119] Checking Content Identical:a6b6e742b54e3c64df61d9a31d03e674933b1ce1===. Value: FALSE
+[2024-08-29 13:32:29] [class-ss-fetch-urls-task.php:72] URL: http://localhost/mystore/mystore/wp-content/uploads/2017/12/product-hoodie4.jpg.jpg
+[2024-08-29 13:32:29] [class-ss-task.php:58] [PAGES STATUS] Remaining:37; Total: 920
+[2024-08-29 13:32:29] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-29 13:32:29] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\DELL\AppData\Local\Temp/66d0786d66718-8EPOXR.tmp
+[2024-08-29 13:32:29] [class-ss-page-handler.php:38] URL Prepared:http://localhost/mystore/mystore/wp-content/uploads/2017/12/product-hoodie4.jpg.jpg?simply_static_page=1679
+[2024-08-29 13:32:29] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/mystore/mystore/wp-content/uploads/2017/12/product-hoodie4.jpg.jpg?simply_static_page=1679
+[2024-08-29 13:32:29] [class-ss-url-fetcher.php:103] Filesize: 206904 bytes
+[2024-08-29 13:32:29] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: image/jpeg
+[2024-08-29 13:32:29] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/2017/12/product-hoodie4.jpg.jpg
+[2024-08-29 13:32:29] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\DELL\AppData\Local\Temp/66d0786d66718-8EPOXR.tmp to C:\xampp\htdocs\mystore\mystore/wp-content/uploads\simply-static\temp-files/simply-static-1-1724937788/wp-content/uploads/2017/12/product-hoodie4.jpg.jpg
+[2024-08-29 13:32:29] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-29 13:32:29] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-08-29 13:32:29] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-29 13:32:29] [class-ss-page.php:119] Checking Content Identical:5d88d8cae7436b3d820b89612b592812a563030f===. Value: FALSE
+[2024-08-29 13:32:29] [class-ss-fetch-urls-task.php:72] URL: http://localhost/mystore/mystore/product/dnk-black-shoes/feed/
+[2024-08-29 13:32:29] [class-ss-task.php:58] [PAGES STATUS] Remaining:36; Total: 920
+[2024-08-29 13:32:29] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-29 13:32:29] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\DELL\AppData\Local\Temp/66d0786d7fcc7-n6etCE.tmp
+[2024-08-29 13:32:29] [class-ss-page-handler.php:38] URL Prepared:http://localhost/mystore/mystore/product/dnk-black-shoes/feed/?simply_static_page=1680
+[2024-08-29 13:32:29] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/mystore/mystore/product/dnk-black-shoes/feed/?simply_static_page=1680
+[2024-08-29 13:32:36] [class-ss-url-fetcher.php:103] Filesize: 800 bytes
+[2024-08-29 13:32:36] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/rss+xml; charset=UTF-8
+[2024-08-29 13:32:36] [class-ss-url-fetcher.php:233] New filename for static page: /product/dnk-black-shoes/feed/index.xml
+[2024-08-29 13:32:36] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\DELL\AppData\Local\Temp/66d0786d7fcc7-n6etCE.tmp to C:\xampp\htdocs\mystore\mystore/wp-content/uploads\simply-static\temp-files/simply-static-1-1724937788/product/dnk-black-shoes/feed/index.xml
+[2024-08-29 13:32:36] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-29 13:32:36] [class-ss-fetch-urls-task.php:159] Adding 2 URLs to the queue
+[2024-08-29 13:32:36] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-29 13:32:36] [class-ss-page.php:119] Checking Content Identical:2a7e7bfc71fb67396ba97856471865fbdad1c001===. Value: FALSE
+[2024-08-29 13:32:36] [class-ss-fetch-urls-task.php:72] URL: http://localhost/mystore/mystore/product/dnk-red-shoes/feed/
+[2024-08-29 13:32:36] [class-ss-task.php:58] [PAGES STATUS] Remaining:35; Total: 920
+[2024-08-29 13:32:36] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-29 13:32:36] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\DELL\AppData\Local\Temp/66d07874c4455-879aiZ.tmp
+[2024-08-29 13:32:36] [class-ss-page-handler.php:38] URL Prepared:http://localhost/mystore/mystore/product/dnk-red-shoes/feed/?simply_static_page=1681
+[2024-08-29 13:32:36] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/mystore/mystore/product/dnk-red-shoes/feed/?simply_static_page=1681
+[2024-08-29 13:32:44] [class-ss-url-fetcher.php:103] Filesize: 794 bytes
+[2024-08-29 13:32:44] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/rss+xml; charset=UTF-8
+[2024-08-29 13:32:44] [class-ss-url-fetcher.php:233] New filename for static page: /product/dnk-red-shoes/feed/index.xml
+[2024-08-29 13:32:44] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\DELL\AppData\Local\Temp/66d07874c4455-879aiZ.tmp to C:\xampp\htdocs\mystore\mystore/wp-content/uploads\simply-static\temp-files/simply-static-1-1724937788/product/dnk-red-shoes/feed/index.xml
+[2024-08-29 13:32:44] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-29 13:32:44] [class-ss-fetch-urls-task.php:159] Adding 2 URLs to the queue
+[2024-08-29 13:32:44] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-29 13:32:44] [class-ss-page.php:119] Checking Content Identical:cb2a408e7a79fe40e00b18f2900577fa06f640b0===. Value: FALSE
+[2024-08-29 13:32:44] [class-ss-fetch-urls-task.php:72] URL: http://localhost/mystore/mystore/product/dark-blue-denim-jeans/feed/
+[2024-08-29 13:32:44] [class-ss-task.php:58] [PAGES STATUS] Remaining:34; Total: 920
+[2024-08-29 13:32:44] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-29 13:32:44] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\DELL\AppData\Local\Temp/66d0787caf3c2-9ZivAZ.tmp
+[2024-08-29 13:32:44] [class-ss-page-handler.php:38] URL Prepared:http://localhost/mystore/mystore/product/dark-blue-denim-jeans/feed/?simply_static_page=1682
+[2024-08-29 13:32:44] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/mystore/mystore/product/dark-blue-denim-jeans/feed/?simply_static_page=1682
+[2024-08-29 13:32:51] [class-ss-url-fetcher.php:103] Filesize: 818 bytes
+[2024-08-29 13:32:51] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/rss+xml; charset=UTF-8
+[2024-08-29 13:32:51] [class-ss-url-fetcher.php:233] New filename for static page: /product/dark-blue-denim-jeans/feed/index.xml
+[2024-08-29 13:32:51] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\DELL\AppData\Local\Temp/66d0787caf3c2-9ZivAZ.tmp to C:\xampp\htdocs\mystore\mystore/wp-content/uploads\simply-static\temp-files/simply-static-1-1724937788/product/dark-blue-denim-jeans/feed/index.xml
+[2024-08-29 13:32:51] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-29 13:32:52] [class-ss-fetch-urls-task.php:159] Adding 2 URLs to the queue
+[2024-08-29 13:32:52] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-29 13:32:52] [class-ss-page.php:119] Checking Content Identical:8ebbdf5bc064384faaad7b861b0fbca7768fe9ff===. Value: FALSE
+[2024-08-29 13:32:52] [class-ss-fetch-urls-task.php:72] URL: http://localhost/mystore/mystore/product/faint-washed-denim-blue-jeans/feed/
+[2024-08-29 13:32:52] [class-ss-task.php:58] [PAGES STATUS] Remaining:33; Total: 920
+[2024-08-29 13:32:52] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-29 13:32:52] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\DELL\AppData\Local\Temp/66d0788444000-EdXggd.tmp
+[2024-08-29 13:32:52] [class-ss-page-handler.php:38] URL Prepared:http://localhost/mystore/mystore/product/faint-washed-denim-blue-jeans/feed/?simply_static_page=1683
+[2024-08-29 13:32:52] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/mystore/mystore/product/faint-washed-denim-blue-jeans/feed/?simply_static_page=1683
+[2024-08-29 13:32:59] [class-ss-url-fetcher.php:103] Filesize: 842 bytes
+[2024-08-29 13:32:59] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/rss+xml; charset=UTF-8
+[2024-08-29 13:32:59] [class-ss-url-fetcher.php:233] New filename for static page: /product/faint-washed-denim-blue-jeans/feed/index.xml
+[2024-08-29 13:32:59] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\DELL\AppData\Local\Temp/66d0788444000-EdXggd.tmp to C:\xampp\htdocs\mystore\mystore/wp-content/uploads\simply-static\temp-files/simply-static-1-1724937788/product/faint-washed-denim-blue-jeans/feed/index.xml
+[2024-08-29 13:32:59] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-29 13:32:59] [class-ss-fetch-urls-task.php:159] Adding 2 URLs to the queue
+[2024-08-29 13:32:59] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-29 13:32:59] [class-ss-page.php:119] Checking Content Identical:fd212496f9aaa51353cffbfe7bed2599522ec34a===. Value: FALSE
+[2024-08-29 13:32:59] [class-ss-fetch-urls-task.php:72] URL: http://localhost/mystore/mystore/product/dark-gray-jeans/feed/
+[2024-08-29 13:32:59] [class-ss-task.php:58] [PAGES STATUS] Remaining:32; Total: 920
+[2024-08-29 13:32:59] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-29 13:32:59] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\DELL\AppData\Local\Temp/66d0788be3a7e-VwTnu1.tmp
+[2024-08-29 13:32:59] [class-ss-page-handler.php:38] URL Prepared:http://localhost/mystore/mystore/product/dark-gray-jeans/feed/?simply_static_page=1684
+[2024-08-29 13:32:59] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/mystore/mystore/product/dark-gray-jeans/feed/?simply_static_page=1684
+[2024-08-29 13:33:07] [class-ss-url-fetcher.php:103] Filesize: 800 bytes
+[2024-08-29 13:33:07] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/rss+xml; charset=UTF-8
+[2024-08-29 13:33:07] [class-ss-url-fetcher.php:233] New filename for static page: /product/dark-gray-jeans/feed/index.xml
+[2024-08-29 13:33:07] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\DELL\AppData\Local\Temp/66d0788be3a7e-VwTnu1.tmp to C:\xampp\htdocs\mystore\mystore/wp-content/uploads\simply-static\temp-files/simply-static-1-1724937788/product/dark-gray-jeans/feed/index.xml
+[2024-08-29 13:33:07] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-29 13:33:07] [class-ss-fetch-urls-task.php:159] Adding 2 URLs to the queue
+[2024-08-29 13:33:08] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-29 13:33:08] [class-ss-page.php:119] Checking Content Identical:b0d22b3833ee4811ef1a3aa0ea707c8ad016dbd7===. Value: FALSE
+[2024-08-29 13:33:08] [class-ss-fetch-urls-task.php:72] URL: http://localhost/mystore/mystore/product/dnk-green-shoes/feed/
+[2024-08-29 13:33:08] [class-ss-task.php:58] [PAGES STATUS] Remaining:31; Total: 920
+[2024-08-29 13:33:08] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-29 13:33:08] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\DELL\AppData\Local\Temp/66d078940b13d-gZ1Z8x.tmp
+[2024-08-29 13:33:08] [class-ss-page-handler.php:38] URL Prepared:http://localhost/mystore/mystore/product/dnk-green-shoes/feed/?simply_static_page=1685
+[2024-08-29 13:33:08] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/mystore/mystore/product/dnk-green-shoes/feed/?simply_static_page=1685
+[2024-08-29 13:33:15] [class-ss-url-fetcher.php:103] Filesize: 800 bytes
+[2024-08-29 13:33:15] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/rss+xml; charset=UTF-8
+[2024-08-29 13:33:15] [class-ss-url-fetcher.php:233] New filename for static page: /product/dnk-green-shoes/feed/index.xml
+[2024-08-29 13:33:15] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\DELL\AppData\Local\Temp/66d078940b13d-gZ1Z8x.tmp to C:\xampp\htdocs\mystore\mystore/wp-content/uploads\simply-static\temp-files/simply-static-1-1724937788/product/dnk-green-shoes/feed/index.xml
+[2024-08-29 13:33:15] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-29 13:33:15] [class-ss-fetch-urls-task.php:159] Adding 2 URLs to the queue
+[2024-08-29 13:33:15] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-29 13:33:15] [class-ss-page.php:119] Checking Content Identical:bd289f4a7c2d174da126292e012cfe45376501e2===. Value: FALSE
+[2024-08-29 13:33:16] [class-ss-fetch-urls-task.php:72] URL: http://localhost/mystore/mystore/wp-content/uploads/elementor/css/post-375.css
+[2024-08-29 13:33:16] [class-ss-task.php:58] [PAGES STATUS] Remaining:30; Total: 920
+[2024-08-29 13:33:16] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-29 13:33:16] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\DELL\AppData\Local\Temp/66d0789c544a3-yEZiDj.tmp
+[2024-08-29 13:33:16] [class-ss-page-handler.php:38] URL Prepared:http://localhost/mystore/mystore/wp-content/uploads/elementor/css/post-375.css?simply_static_page=1686
+[2024-08-29 13:33:16] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/mystore/mystore/wp-content/uploads/elementor/css/post-375.css?simply_static_page=1686
+[2024-08-29 13:33:16] [class-ss-url-fetcher.php:103] Filesize: 7746 bytes
+[2024-08-29 13:33:16] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-08-29 13:33:16] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/elementor/css/post-375.css
+[2024-08-29 13:33:16] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\DELL\AppData\Local\Temp/66d0789c544a3-yEZiDj.tmp to C:\xampp\htdocs\mystore\mystore/wp-content/uploads\simply-static\temp-files/simply-static-1-1724937788/wp-content/uploads/elementor/css/post-375.css
+[2024-08-29 13:33:16] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-29 13:33:16] [class-ss-fetch-urls-task.php:159] Adding 2 URLs to the queue
+[2024-08-29 13:33:16] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-29 13:33:16] [class-ss-page.php:119] Checking Content Identical:17c685f801f5f25144c008e987436940b521f507===. Value: FALSE
+[2024-08-29 13:33:16] [class-ss-fetch-urls-task.php:72] URL: http://localhost/mystore/mystore/wp-json/wp/v2/product/375
+[2024-08-29 13:33:16] [class-ss-task.php:58] [PAGES STATUS] Remaining:29; Total: 920
+[2024-08-29 13:33:16] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-29 13:33:16] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\DELL\AppData\Local\Temp/66d0789cb9775-tSCpSA.tmp
+[2024-08-29 13:33:16] [class-ss-page-handler.php:38] URL Prepared:http://localhost/mystore/mystore/wp-json/wp/v2/product/375?simply_static_page=1687
+[2024-08-29 13:33:16] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/mystore/mystore/wp-json/wp/v2/product/375?simply_static_page=1687
+[2024-08-29 13:33:20] [class-ss-archive-creation-job.php:136] Current task: fetch_urls
+[2024-08-29 13:33:20] [class-ss-archive-creation-job.php:153] Performing task: fetch_urls
+[2024-08-29 13:33:20] [class-ss-fetch-urls-task.php:69] Total pages: 923; Pages remaining: 52
+[2024-08-29 13:33:20] [class-ss-fetch-urls-task.php:72] URL: http://localhost/mystore/mystore/wp-json/wp/v2/product/375
+[2024-08-29 13:33:20] [class-ss-task.php:58] [PAGES STATUS] Remaining:50; Total: 923
+[2024-08-29 13:33:20] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-29 13:33:20] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\DELL\AppData\Local\Temp/66d078a09ef58-xl6EN6.tmp
+[2024-08-29 13:33:20] [class-ss-page-handler.php:38] URL Prepared:http://localhost/mystore/mystore/wp-json/wp/v2/product/375?simply_static_page=1687
+[2024-08-29 13:33:20] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/mystore/mystore/wp-json/wp/v2/product/375?simply_static_page=1687
+[2024-08-29 13:33:26] [class-ss-url-fetcher.php:103] Filesize: 20405 bytes
+[2024-08-29 13:33:26] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/json; charset=UTF-8
+[2024-08-29 13:33:26] [class-ss-url-fetcher.php:233] New filename for static page: /wp-json/wp/v2/product/375\index.html
+[2024-08-29 13:33:26] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\DELL\AppData\Local\Temp/66d0789cb9775-tSCpSA.tmp to C:\xampp\htdocs\mystore\mystore/wp-content/uploads\simply-static\temp-files/simply-static-1-1724937788/wp-json/wp/v2/product/375\index.html
+[2024-08-29 13:33:26] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-29 13:33:26] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-08-29 13:33:26] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-29 13:33:26] [class-ss-page.php:119] Checking Content Identical:70bc99ca3c409318cedcb61397adf30c4dc23802===. Value: FALSE
+[2024-08-29 13:33:26] [class-ss-fetch-urls-task.php:72] URL: http://localhost/mystore/mystore/product/flamingo-tshirt/feed/
+[2024-08-29 13:33:26] [class-ss-task.php:58] [PAGES STATUS] Remaining:28; Total: 920
+[2024-08-29 13:33:26] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-29 13:33:26] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\DELL\AppData\Local\Temp/66d078a6ddfd6-UbXQpg.tmp
+[2024-08-29 13:33:26] [class-ss-page-handler.php:38] URL Prepared:http://localhost/mystore/mystore/product/flamingo-tshirt/feed/?simply_static_page=1688
+[2024-08-29 13:33:26] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/mystore/mystore/product/flamingo-tshirt/feed/?simply_static_page=1688
+[2024-08-29 13:33:30] [class-ss-url-fetcher.php:103] Filesize: 20405 bytes
+[2024-08-29 13:33:30] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/json; charset=UTF-8
+[2024-08-29 13:33:30] [class-ss-url-fetcher.php:233] New filename for static page: /wp-json/wp/v2/product/375\index.html
+[2024-08-29 13:33:30] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\DELL\AppData\Local\Temp/66d078a09ef58-xl6EN6.tmp to C:\xampp\htdocs\mystore\mystore/wp-content/uploads\simply-static\temp-files/simply-static-1-1724937788/wp-json/wp/v2/product/375\index.html
+[2024-08-29 13:33:30] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-29 13:33:30] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-08-29 13:33:30] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-29 13:33:30] [class-ss-page.php:119] Checking Content Identical:70bc99ca3c409318cedcb61397adf30c4dc23802===. Value: FALSE
+[2024-08-29 13:33:30] [class-ss-fetch-urls-task.php:72] URL: http://localhost/mystore/mystore/product/flamingo-tshirt/feed/
+[2024-08-29 13:33:30] [class-ss-task.php:58] [PAGES STATUS] Remaining:49; Total: 923
+[2024-08-29 13:33:30] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-29 13:33:30] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\DELL\AppData\Local\Temp/66d078aa82d0d-kcac4S.tmp
+[2024-08-29 13:33:30] [class-ss-page-handler.php:38] URL Prepared:http://localhost/mystore/mystore/product/flamingo-tshirt/feed/?simply_static_page=1688
+[2024-08-29 13:33:30] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/mystore/mystore/product/flamingo-tshirt/feed/?simply_static_page=1688
+[2024-08-29 13:33:34] [class-ss-url-fetcher.php:103] Filesize: 800 bytes
+[2024-08-29 13:33:34] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/rss+xml; charset=UTF-8
+[2024-08-29 13:33:34] [class-ss-url-fetcher.php:233] New filename for static page: /product/flamingo-tshirt/feed/index.xml
+[2024-08-29 13:33:34] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\DELL\AppData\Local\Temp/66d078a6ddfd6-UbXQpg.tmp to C:\xampp\htdocs\mystore\mystore/wp-content/uploads\simply-static\temp-files/simply-static-1-1724937788/product/flamingo-tshirt/feed/index.xml
+[2024-08-29 13:33:34] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-29 13:33:34] [class-ss-fetch-urls-task.php:159] Adding 2 URLs to the queue
+[2024-08-29 13:33:34] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-29 13:33:34] [class-ss-page.php:119] Checking Content Identical:42f080ab76be9bd15755031074b08e6580acc394===. Value: FALSE
+[2024-08-29 13:33:34] [class-ss-fetch-urls-task.php:72] URL: http://localhost/mystore/mystore/wp-content/uploads/elementor/css/post-210.css
+[2024-08-29 13:33:34] [class-ss-task.php:58] [PAGES STATUS] Remaining:27; Total: 920
+[2024-08-29 13:33:34] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-29 13:33:34] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\DELL\AppData\Local\Temp/66d078ae8d948-nGecgs.tmp
+[2024-08-29 13:33:34] [class-ss-page-handler.php:38] URL Prepared:http://localhost/mystore/mystore/wp-content/uploads/elementor/css/post-210.css?simply_static_page=1689
+[2024-08-29 13:33:34] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/mystore/mystore/wp-content/uploads/elementor/css/post-210.css?simply_static_page=1689
+[2024-08-29 13:33:34] [class-ss-url-fetcher.php:103] Filesize: 7746 bytes
+[2024-08-29 13:33:34] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-08-29 13:33:34] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/elementor/css/post-210.css
+[2024-08-29 13:33:34] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\DELL\AppData\Local\Temp/66d078ae8d948-nGecgs.tmp to C:\xampp\htdocs\mystore\mystore/wp-content/uploads\simply-static\temp-files/simply-static-1-1724937788/wp-content/uploads/elementor/css/post-210.css
+[2024-08-29 13:33:34] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-29 13:33:34] [class-ss-fetch-urls-task.php:159] Adding 2 URLs to the queue
+[2024-08-29 13:33:34] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-29 13:33:34] [class-ss-page.php:119] Checking Content Identical:5e6bdd4eebd1d6e01b5a08738b8cc8ba00bd50b2===. Value: FALSE
+[2024-08-29 13:33:34] [class-ss-fetch-urls-task.php:72] URL: http://localhost/mystore/mystore/wp-json/wp/v2/product/210
+[2024-08-29 13:33:34] [class-ss-task.php:58] [PAGES STATUS] Remaining:26; Total: 920
+[2024-08-29 13:33:34] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-29 13:33:34] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\DELL\AppData\Local\Temp/66d078aef2117-bnQqEM.tmp
+[2024-08-29 13:33:34] [class-ss-page-handler.php:38] URL Prepared:http://localhost/mystore/mystore/wp-json/wp/v2/product/210?simply_static_page=1690
+[2024-08-29 13:33:34] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/mystore/mystore/wp-json/wp/v2/product/210?simply_static_page=1690
+[2024-08-29 13:33:38] [class-ss-url-fetcher.php:103] Filesize: 800 bytes
+[2024-08-29 13:33:38] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/rss+xml; charset=UTF-8
+[2024-08-29 13:33:38] [class-ss-url-fetcher.php:233] New filename for static page: /product/flamingo-tshirt/feed/index.xml
+[2024-08-29 13:33:38] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\DELL\AppData\Local\Temp/66d078aa82d0d-kcac4S.tmp to C:\xampp\htdocs\mystore\mystore/wp-content/uploads\simply-static\temp-files/simply-static-1-1724937788/product/flamingo-tshirt/feed/index.xml
+[2024-08-29 13:33:38] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-29 13:33:38] [class-ss-fetch-urls-task.php:159] Adding 2 URLs to the queue
+[2024-08-29 13:33:38] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-29 13:33:38] [class-ss-page.php:119] Checking Content Identical:42f080ab76be9bd15755031074b08e6580acc394===. Value: FALSE
+[2024-08-29 13:33:38] [class-ss-fetch-urls-task.php:72] URL: http://localhost/mystore/mystore/wp-content/uploads/elementor/css/post-210.css
+[2024-08-29 13:33:38] [class-ss-task.php:58] [PAGES STATUS] Remaining:48; Total: 923
+[2024-08-29 13:33:38] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-29 13:33:38] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\DELL\AppData\Local\Temp/66d078b2f2638-BXRja4.tmp
+[2024-08-29 13:33:38] [class-ss-page-handler.php:38] URL Prepared:http://localhost/mystore/mystore/wp-content/uploads/elementor/css/post-210.css?simply_static_page=1689
+[2024-08-29 13:33:38] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/mystore/mystore/wp-content/uploads/elementor/css/post-210.css?simply_static_page=1689
+[2024-08-29 13:33:39] [class-ss-url-fetcher.php:103] Filesize: 7746 bytes
+[2024-08-29 13:33:39] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-08-29 13:33:39] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/elementor/css/post-210.css
+[2024-08-29 13:33:39] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\DELL\AppData\Local\Temp/66d078b2f2638-BXRja4.tmp to C:\xampp\htdocs\mystore\mystore/wp-content/uploads\simply-static\temp-files/simply-static-1-1724937788/wp-content/uploads/elementor/css/post-210.css
+[2024-08-29 13:33:39] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-29 13:33:39] [class-ss-fetch-urls-task.php:159] Adding 2 URLs to the queue
+[2024-08-29 13:33:39] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-29 13:33:39] [class-ss-page.php:119] Checking Content Identical:5e6bdd4eebd1d6e01b5a08738b8cc8ba00bd50b2===. Value: FALSE
+[2024-08-29 13:33:39] [class-ss-fetch-urls-task.php:72] URL: http://localhost/mystore/mystore/wp-json/wp/v2/product/210
+[2024-08-29 13:33:39] [class-ss-task.php:58] [PAGES STATUS] Remaining:47; Total: 923
+[2024-08-29 13:33:39] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-29 13:33:39] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\DELL\AppData\Local\Temp/66d078b3a1e05-wm0pvy.tmp
+[2024-08-29 13:33:39] [class-ss-page-handler.php:38] URL Prepared:http://localhost/mystore/mystore/wp-json/wp/v2/product/210?simply_static_page=1690
+[2024-08-29 13:33:39] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/mystore/mystore/wp-json/wp/v2/product/210?simply_static_page=1690
+[2024-08-29 13:33:45] [class-ss-archive-creation-job.php:384] Error: (1) Maximum execution time of 120 seconds exceeded in <b>C:\xampp\htdocs\mystore\mystore\wp-includes\Requests\src\Transport\Curl.php</b> on line <b>510</b>
+[2024-08-29 13:33:45] [class-ss-archive-creation-job.php:324] Status message: [error] Error: (1) Maximum execution time of 120 seconds exceeded in <b>C:\xampp\htdocs\mystore\mystore\wp-includes\Requests\src\Transport\Curl.php</b> on line <b>510</b>
+[2024-08-29 13:33:49] [class-ss-url-fetcher.php:103] Filesize: 20413 bytes
+[2024-08-29 13:33:49] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/json; charset=UTF-8
+[2024-08-29 13:33:49] [class-ss-url-fetcher.php:233] New filename for static page: /wp-json/wp/v2/product/210\index.html
+[2024-08-29 13:33:49] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\DELL\AppData\Local\Temp/66d078b3a1e05-wm0pvy.tmp to C:\xampp\htdocs\mystore\mystore/wp-content/uploads\simply-static\temp-files/simply-static-1-1724937788/wp-json/wp/v2/product/210\index.html
+[2024-08-29 13:33:49] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-29 13:33:49] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-08-29 13:33:49] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-29 13:33:49] [class-ss-page.php:119] Checking Content Identical:6d90e7de427adb1d0d58460895795a00614f3a22===. Value: FALSE
+[2024-08-29 13:33:49] [class-ss-fetch-urls-task.php:72] URL: http://localhost/mystore/mystore/product/gray-pattern-tshirt/feed/
+[2024-08-29 13:33:49] [class-ss-task.php:58] [PAGES STATUS] Remaining:46; Total: 923
+[2024-08-29 13:33:49] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-29 13:33:49] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\DELL\AppData\Local\Temp/66d078bd50dbd-WPU32o.tmp
+[2024-08-29 13:33:49] [class-ss-page-handler.php:38] URL Prepared:http://localhost/mystore/mystore/product/gray-pattern-tshirt/feed/?simply_static_page=1691
+[2024-08-29 13:33:49] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/mystore/mystore/product/gray-pattern-tshirt/feed/?simply_static_page=1691
+[2024-08-29 13:33:56] [class-ss-url-fetcher.php:103] Filesize: 812 bytes
+[2024-08-29 13:33:56] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/rss+xml; charset=UTF-8
+[2024-08-29 13:33:56] [class-ss-url-fetcher.php:233] New filename for static page: /product/gray-pattern-tshirt/feed/index.xml
+[2024-08-29 13:33:56] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\DELL\AppData\Local\Temp/66d078bd50dbd-WPU32o.tmp to C:\xampp\htdocs\mystore\mystore/wp-content/uploads\simply-static\temp-files/simply-static-1-1724937788/product/gray-pattern-tshirt/feed/index.xml
+[2024-08-29 13:33:56] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-29 13:33:56] [class-ss-fetch-urls-task.php:159] Adding 2 URLs to the queue
+[2024-08-29 13:33:56] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-29 13:33:57] [class-ss-page.php:119] Checking Content Identical:6e765f2a5342cb3a2c256063c719eaf557ac8fbf===. Value: FALSE
+[2024-08-29 13:33:57] [class-ss-fetch-urls-task.php:72] URL: http://localhost/mystore/mystore/wp-content/uploads/elementor/css/post-211.css
+[2024-08-29 13:33:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:45; Total: 923
+[2024-08-29 13:33:57] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-29 13:33:57] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\DELL\AppData\Local\Temp/66d078c51fcee-kuJLuA.tmp
+[2024-08-29 13:33:57] [class-ss-page-handler.php:38] URL Prepared:http://localhost/mystore/mystore/wp-content/uploads/elementor/css/post-211.css?simply_static_page=1692
+[2024-08-29 13:33:57] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/mystore/mystore/wp-content/uploads/elementor/css/post-211.css?simply_static_page=1692
+[2024-08-29 13:33:57] [class-ss-url-fetcher.php:103] Filesize: 7746 bytes
+[2024-08-29 13:33:57] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-08-29 13:33:57] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/elementor/css/post-211.css
+[2024-08-29 13:33:57] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\DELL\AppData\Local\Temp/66d078c51fcee-kuJLuA.tmp to C:\xampp\htdocs\mystore\mystore/wp-content/uploads\simply-static\temp-files/simply-static-1-1724937788/wp-content/uploads/elementor/css/post-211.css
+[2024-08-29 13:33:57] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-29 13:33:57] [class-ss-fetch-urls-task.php:159] Adding 2 URLs to the queue
+[2024-08-29 13:33:57] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-29 13:33:57] [class-ss-page.php:119] Checking Content Identical:89fbda689d49a3e380f028bbe24e64bf296f7d79===. Value: FALSE
+[2024-08-29 13:33:57] [class-ss-fetch-urls-task.php:72] URL: http://localhost/mystore/mystore/wp-json/wp/v2/product/211
+[2024-08-29 13:33:57] [class-ss-task.php:58] [PAGES STATUS] Remaining:44; Total: 923
+[2024-08-29 13:33:57] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-29 13:33:57] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\DELL\AppData\Local\Temp/66d078c531f2b-PVv0R8.tmp
+[2024-08-29 13:33:57] [class-ss-page-handler.php:38] URL Prepared:http://localhost/mystore/mystore/wp-json/wp/v2/product/211?simply_static_page=1693
+[2024-08-29 13:33:57] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/mystore/mystore/wp-json/wp/v2/product/211?simply_static_page=1693
+[2024-08-29 13:34:06] [class-ss-url-fetcher.php:103] Filesize: 20429 bytes
+[2024-08-29 13:34:06] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/json; charset=UTF-8
+[2024-08-29 13:34:06] [class-ss-url-fetcher.php:233] New filename for static page: /wp-json/wp/v2/product/211\index.html
+[2024-08-29 13:34:06] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\DELL\AppData\Local\Temp/66d078c531f2b-PVv0R8.tmp to C:\xampp\htdocs\mystore\mystore/wp-content/uploads\simply-static\temp-files/simply-static-1-1724937788/wp-json/wp/v2/product/211\index.html
+[2024-08-29 13:34:06] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-29 13:34:06] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-08-29 13:34:06] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-29 13:34:06] [class-ss-page.php:119] Checking Content Identical:6bf4b88bfa4cc650cdedefa225f2a6611c91ad21===. Value: FALSE
+[2024-08-29 13:34:06] [class-ss-fetch-urls-task.php:72] URL: http://localhost/mystore/mystore/product-category/women/page/1/
+[2024-08-29 13:34:06] [class-ss-task.php:58] [PAGES STATUS] Remaining:43; Total: 923
+[2024-08-29 13:34:06] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-29 13:34:06] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\DELL\AppData\Local\Temp/66d078ce41cac-8YDjdY.tmp
+[2024-08-29 13:34:06] [class-ss-page-handler.php:38] URL Prepared:http://localhost/mystore/mystore/product-category/women/page/1/?simply_static_page=1694
+[2024-08-29 13:34:06] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/mystore/mystore/product-category/women/page/1/?simply_static_page=1694
+[2024-08-29 13:34:15] [class-ss-url-fetcher.php:103] Filesize: 0 bytes
+[2024-08-29 13:34:15] [class-ss-url-fetcher.php:119] http_status_code: 301 | content_type: text/html; charset=UTF-8
+[2024-08-29 13:34:15] [class-ss-url-fetcher.php:147] We weren't able to establish a filename; deleting temp file
+[2024-08-29 13:34:15] [class-ss-fetch-urls-task.php:204] redirect_url: http://localhost/mystore/mystore/product-category/women/
+[2024-08-29 13:34:15] [class-ss-fetch-urls-task.php:231] Redirect URL is on the same domain; adding the URL to the queue
+[2024-08-29 13:34:15] [class-ss-fetch-urls-task.php:243] Creating a redirect page
+[2024-08-29 13:34:15] [class-ss-url-fetcher.php:233] New filename for static page: /product-category/women/page/1/index.html
+[2024-08-29 13:34:15] [class-ss-page.php:119] Checking Content Identical:2f454b3cb484d9cff832af3323c4380e347378f6===. Value: FALSE
+[2024-08-29 13:34:15] [class-ss-fetch-urls-task.php:72] URL: http://localhost/mystore/mystore/product/slim-fit-blue-jeans/feed/
+[2024-08-29 13:34:15] [class-ss-task.php:58] [PAGES STATUS] Remaining:42; Total: 923
+[2024-08-29 13:34:15] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-29 13:34:15] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\DELL\AppData\Local\Temp/66d078d73b746-TK1us1.tmp
+[2024-08-29 13:34:15] [class-ss-page-handler.php:38] URL Prepared:http://localhost/mystore/mystore/product/slim-fit-blue-jeans/feed/?simply_static_page=1695
+[2024-08-29 13:34:15] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/mystore/mystore/product/slim-fit-blue-jeans/feed/?simply_static_page=1695
+[2024-08-29 13:34:27] [class-ss-url-fetcher.php:103] Filesize: 812 bytes
+[2024-08-29 13:34:27] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/rss+xml; charset=UTF-8
+[2024-08-29 13:34:27] [class-ss-url-fetcher.php:233] New filename for static page: /product/slim-fit-blue-jeans/feed/index.xml
+[2024-08-29 13:34:27] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\DELL\AppData\Local\Temp/66d078d73b746-TK1us1.tmp to C:\xampp\htdocs\mystore\mystore/wp-content/uploads\simply-static\temp-files/simply-static-1-1724937788/product/slim-fit-blue-jeans/feed/index.xml
+[2024-08-29 13:34:27] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-29 13:34:27] [class-ss-fetch-urls-task.php:159] Adding 2 URLs to the queue
+[2024-08-29 13:34:27] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-29 13:34:27] [class-ss-page.php:119] Checking Content Identical:dd20fbee632d19172ec66f301f2cd25b41402f9a===. Value: FALSE
+[2024-08-29 13:34:27] [class-ss-fetch-urls-task.php:72] URL: http://localhost/mystore/mystore/product/lemons-tshirt/feed/
+[2024-08-29 13:34:27] [class-ss-task.php:58] [PAGES STATUS] Remaining:41; Total: 923
+[2024-08-29 13:34:27] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-29 13:34:27] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\DELL\AppData\Local\Temp/66d078e3a92ee-TacIO9.tmp
+[2024-08-29 13:34:27] [class-ss-page-handler.php:38] URL Prepared:http://localhost/mystore/mystore/product/lemons-tshirt/feed/?simply_static_page=1696
+[2024-08-29 13:34:27] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/mystore/mystore/product/lemons-tshirt/feed/?simply_static_page=1696
+[2024-08-29 13:34:35] [class-ss-url-fetcher.php:103] Filesize: 794 bytes
+[2024-08-29 13:34:35] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/rss+xml; charset=UTF-8
+[2024-08-29 13:34:35] [class-ss-url-fetcher.php:233] New filename for static page: /product/lemons-tshirt/feed/index.xml
+[2024-08-29 13:34:35] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\DELL\AppData\Local\Temp/66d078e3a92ee-TacIO9.tmp to C:\xampp\htdocs\mystore\mystore/wp-content/uploads\simply-static\temp-files/simply-static-1-1724937788/product/lemons-tshirt/feed/index.xml
+[2024-08-29 13:34:35] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-29 13:34:36] [class-ss-fetch-urls-task.php:159] Adding 2 URLs to the queue
+[2024-08-29 13:34:36] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-29 13:34:36] [class-ss-page.php:119] Checking Content Identical:0d4f5f7570f1dfd82e1cc88083e6e3dc5d1504bb===. Value: FALSE
+[2024-08-29 13:34:36] [class-ss-fetch-urls-task.php:72] URL: http://localhost/mystore/mystore/wp-content/uploads/elementor/css/post-345.css
+[2024-08-29 13:34:36] [class-ss-task.php:58] [PAGES STATUS] Remaining:40; Total: 923
+[2024-08-29 13:34:36] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-29 13:34:36] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\DELL\AppData\Local\Temp/66d078ec0fff4-mkE5nB.tmp
+[2024-08-29 13:34:36] [class-ss-page-handler.php:38] URL Prepared:http://localhost/mystore/mystore/wp-content/uploads/elementor/css/post-345.css?simply_static_page=1697
+[2024-08-29 13:34:36] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/mystore/mystore/wp-content/uploads/elementor/css/post-345.css?simply_static_page=1697
+[2024-08-29 13:34:36] [class-ss-url-fetcher.php:103] Filesize: 7746 bytes
+[2024-08-29 13:34:36] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-08-29 13:34:36] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/elementor/css/post-345.css
+[2024-08-29 13:34:36] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\DELL\AppData\Local\Temp/66d078ec0fff4-mkE5nB.tmp to C:\xampp\htdocs\mystore\mystore/wp-content/uploads\simply-static\temp-files/simply-static-1-1724937788/wp-content/uploads/elementor/css/post-345.css
+[2024-08-29 13:34:36] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-29 13:34:36] [class-ss-fetch-urls-task.php:159] Adding 2 URLs to the queue
+[2024-08-29 13:34:36] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-29 13:34:36] [class-ss-page.php:119] Checking Content Identical:056e34389288605f080ac21757442957a2b3be6f===. Value: FALSE
+[2024-08-29 13:34:36] [class-ss-fetch-urls-task.php:72] URL: http://localhost/mystore/mystore/wp-json/wp/v2/product/345
+[2024-08-29 13:34:36] [class-ss-task.php:58] [PAGES STATUS] Remaining:39; Total: 923
+[2024-08-29 13:34:36] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-29 13:34:36] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\DELL\AppData\Local\Temp/66d078ec50bb6-xEV4aq.tmp
+[2024-08-29 13:34:36] [class-ss-page-handler.php:38] URL Prepared:http://localhost/mystore/mystore/wp-json/wp/v2/product/345?simply_static_page=1698
+[2024-08-29 13:34:36] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/mystore/mystore/wp-json/wp/v2/product/345?simply_static_page=1698
+[2024-08-29 13:34:44] [class-ss-url-fetcher.php:103] Filesize: 17367 bytes
+[2024-08-29 13:34:44] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/json; charset=UTF-8
+[2024-08-29 13:34:44] [class-ss-url-fetcher.php:233] New filename for static page: /wp-json/wp/v2/product/345\index.html
+[2024-08-29 13:34:44] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\DELL\AppData\Local\Temp/66d078ec50bb6-xEV4aq.tmp to C:\xampp\htdocs\mystore\mystore/wp-content/uploads\simply-static\temp-files/simply-static-1-1724937788/wp-json/wp/v2/product/345\index.html
+[2024-08-29 13:34:44] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-29 13:34:44] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-08-29 13:34:44] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-29 13:34:44] [class-ss-page.php:119] Checking Content Identical:4d00fda11fc15e361f4a97bafc65123d8983abb2===. Value: FALSE
+[2024-08-29 13:34:44] [class-ss-fetch-urls-task.php:72] URL: http://localhost/mystore/mystore/wp-content/uploads/elementor/css/post-324.css
+[2024-08-29 13:34:44] [class-ss-task.php:58] [PAGES STATUS] Remaining:38; Total: 923
+[2024-08-29 13:34:44] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-29 13:34:44] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\DELL\AppData\Local\Temp/66d078f4ce5d0-QjrTha.tmp
+[2024-08-29 13:34:44] [class-ss-page-handler.php:38] URL Prepared:http://localhost/mystore/mystore/wp-content/uploads/elementor/css/post-324.css?simply_static_page=1699
+[2024-08-29 13:34:44] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/mystore/mystore/wp-content/uploads/elementor/css/post-324.css?simply_static_page=1699
+[2024-08-29 13:34:44] [class-ss-url-fetcher.php:103] Filesize: 7746 bytes
+[2024-08-29 13:34:44] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-08-29 13:34:44] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/elementor/css/post-324.css
+[2024-08-29 13:34:44] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\DELL\AppData\Local\Temp/66d078f4ce5d0-QjrTha.tmp to C:\xampp\htdocs\mystore\mystore/wp-content/uploads\simply-static\temp-files/simply-static-1-1724937788/wp-content/uploads/elementor/css/post-324.css
+[2024-08-29 13:34:44] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-29 13:34:44] [class-ss-fetch-urls-task.php:159] Adding 2 URLs to the queue
+[2024-08-29 13:34:44] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-29 13:34:44] [class-ss-page.php:119] Checking Content Identical:4212f67008f823240b9e23466eb0863f3f397f6c===. Value: FALSE
+[2024-08-29 13:34:44] [class-ss-fetch-urls-task.php:72] URL: http://localhost/mystore/mystore/wp-json/wp/v2/product/324
+[2024-08-29 13:34:44] [class-ss-task.php:58] [PAGES STATUS] Remaining:37; Total: 923
+[2024-08-29 13:34:44] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-29 13:34:44] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\DELL\AppData\Local\Temp/66d078f4f0a0b-PYoK4Q.tmp
+[2024-08-29 13:34:44] [class-ss-page-handler.php:38] URL Prepared:http://localhost/mystore/mystore/wp-json/wp/v2/product/324?simply_static_page=1700
+[2024-08-29 13:34:44] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/mystore/mystore/wp-json/wp/v2/product/324?simply_static_page=1700
+[2024-08-29 13:34:54] [class-ss-url-fetcher.php:103] Filesize: 17343 bytes
+[2024-08-29 13:34:54] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/json; charset=UTF-8
+[2024-08-29 13:34:54] [class-ss-url-fetcher.php:233] New filename for static page: /wp-json/wp/v2/product/324\index.html
+[2024-08-29 13:34:54] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\DELL\AppData\Local\Temp/66d078f4f0a0b-PYoK4Q.tmp to C:\xampp\htdocs\mystore\mystore/wp-content/uploads\simply-static\temp-files/simply-static-1-1724937788/wp-json/wp/v2/product/324\index.html
+[2024-08-29 13:34:54] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-29 13:34:54] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-08-29 13:34:54] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-29 13:34:54] [class-ss-page.php:119] Checking Content Identical:f0579c614004a85f6a68e78452e706fd7ef1b184===. Value: FALSE
+[2024-08-29 13:34:54] [class-ss-fetch-urls-task.php:72] URL: http://localhost/mystore/mystore/wp-content/uploads/elementor/css/post-316.css
+[2024-08-29 13:34:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:36; Total: 923
+[2024-08-29 13:34:54] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-29 13:34:54] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\DELL\AppData\Local\Temp/66d078fe70bdb-Zkwuc2.tmp
+[2024-08-29 13:34:54] [class-ss-page-handler.php:38] URL Prepared:http://localhost/mystore/mystore/wp-content/uploads/elementor/css/post-316.css?simply_static_page=1701
+[2024-08-29 13:34:54] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/mystore/mystore/wp-content/uploads/elementor/css/post-316.css?simply_static_page=1701
+[2024-08-29 13:34:54] [class-ss-url-fetcher.php:103] Filesize: 7746 bytes
+[2024-08-29 13:34:54] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-08-29 13:34:54] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/elementor/css/post-316.css
+[2024-08-29 13:34:54] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\DELL\AppData\Local\Temp/66d078fe70bdb-Zkwuc2.tmp to C:\xampp\htdocs\mystore\mystore/wp-content/uploads\simply-static\temp-files/simply-static-1-1724937788/wp-content/uploads/elementor/css/post-316.css
+[2024-08-29 13:34:54] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-29 13:34:54] [class-ss-fetch-urls-task.php:159] Adding 2 URLs to the queue
+[2024-08-29 13:34:54] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-29 13:34:54] [class-ss-page.php:119] Checking Content Identical:bdccf49b885aad9f7fb2e01619e69c87347afa28===. Value: FALSE
+[2024-08-29 13:34:54] [class-ss-fetch-urls-task.php:72] URL: http://localhost/mystore/mystore/wp-json/wp/v2/product/316
+[2024-08-29 13:34:54] [class-ss-task.php:58] [PAGES STATUS] Remaining:35; Total: 923
+[2024-08-29 13:34:54] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-29 13:34:54] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\DELL\AppData\Local\Temp/66d078fe8d760-L9eOnJ.tmp
+[2024-08-29 13:34:54] [class-ss-page-handler.php:38] URL Prepared:http://localhost/mystore/mystore/wp-json/wp/v2/product/316?simply_static_page=1702
+[2024-08-29 13:34:54] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/mystore/mystore/wp-json/wp/v2/product/316?simply_static_page=1702
+[2024-08-29 13:35:04] [class-ss-url-fetcher.php:103] Filesize: 17345 bytes
+[2024-08-29 13:35:04] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/json; charset=UTF-8
+[2024-08-29 13:35:04] [class-ss-url-fetcher.php:233] New filename for static page: /wp-json/wp/v2/product/316\index.html
+[2024-08-29 13:35:04] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\DELL\AppData\Local\Temp/66d078fe8d760-L9eOnJ.tmp to C:\xampp\htdocs\mystore\mystore/wp-content/uploads\simply-static\temp-files/simply-static-1-1724937788/wp-json/wp/v2/product/316\index.html
+[2024-08-29 13:35:04] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-29 13:35:04] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-08-29 13:35:04] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-29 13:35:04] [class-ss-page.php:119] Checking Content Identical:a364928574d1b2d080299ba33ddb20fb7d4c2c7e===. Value: FALSE
+[2024-08-29 13:35:04] [class-ss-fetch-urls-task.php:72] URL: http://localhost/mystore/mystore/product/dnk-tshirt/feed/
+[2024-08-29 13:35:04] [class-ss-task.php:58] [PAGES STATUS] Remaining:34; Total: 923
+[2024-08-29 13:35:04] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-29 13:35:04] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\DELL\AppData\Local\Temp/66d079083be79-eAeiy6.tmp
+[2024-08-29 13:35:04] [class-ss-page-handler.php:38] URL Prepared:http://localhost/mystore/mystore/product/dnk-tshirt/feed/?simply_static_page=1703
+[2024-08-29 13:35:04] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/mystore/mystore/product/dnk-tshirt/feed/?simply_static_page=1703
+[2024-08-29 13:35:11] [class-ss-url-fetcher.php:103] Filesize: 791 bytes
+[2024-08-29 13:35:11] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: application/rss+xml; charset=UTF-8
+[2024-08-29 13:35:11] [class-ss-url-fetcher.php:233] New filename for static page: /product/dnk-tshirt/feed/index.xml
+[2024-08-29 13:35:11] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\DELL\AppData\Local\Temp/66d079083be79-eAeiy6.tmp to C:\xampp\htdocs\mystore\mystore/wp-content/uploads\simply-static\temp-files/simply-static-1-1724937788/product/dnk-tshirt/feed/index.xml
+[2024-08-29 13:35:11] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-29 13:35:11] [class-ss-fetch-urls-task.php:159] Adding 2 URLs to the queue
+[2024-08-29 13:35:11] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-29 13:35:11] [class-ss-page.php:119] Checking Content Identical:3c12ef26dfe462c0882a01513b748c413b514b4b===. Value: FALSE
+[2024-08-29 13:35:11] [class-ss-fetch-urls-task.php:72] URL: http://localhost/mystore/mystore/wp-content/uploads/elementor/css/post-132.css
+[2024-08-29 13:35:11] [class-ss-task.php:58] [PAGES STATUS] Remaining:33; Total: 923
+[2024-08-29 13:35:11] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-29 13:35:11] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\DELL\AppData\Local\Temp/66d0790f5666c-lXDAml.tmp
+[2024-08-29 13:35:11] [class-ss-page-handler.php:38] URL Prepared:http://localhost/mystore/mystore/wp-content/uploads/elementor/css/post-132.css?simply_static_page=1704
+[2024-08-29 13:35:11] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/mystore/mystore/wp-content/uploads/elementor/css/post-132.css?simply_static_page=1704
+[2024-08-29 13:35:11] [class-ss-url-fetcher.php:103] Filesize: 7746 bytes
+[2024-08-29 13:35:11] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-08-29 13:35:11] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/uploads/elementor/css/post-132.css
+[2024-08-29 13:35:11] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\DELL\AppData\Local\Temp/66d0790f5666c-lXDAml.tmp to C:\xampp\htdocs\mystore\mystore/wp-content/uploads\simply-static\temp-files/simply-static-1-1724937788/wp-content/uploads/elementor/css/post-132.css
+[2024-08-29 13:35:11] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-08-29 13:35:11] [class-ss-fetch-urls-task.php:159] Adding 2 URLs to the queue
+[2024-08-29 13:35:11] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-08-29 13:35:11] [class-ss-page.php:119] Checking Content Identical:910ab71f0d26e9fe3edd9fa46159ea5edc78dff5===. Value: FALSE
+[2024-08-29 13:35:11] [class-ss-fetch-urls-task.php:72] URL: http://localhost/mystore/mystore/wp-json/wp/v2/product/132
+[2024-08-29 13:35:11] [class-ss-task.php:58] [PAGES STATUS] Remaining:32; Total: 923
+[2024-08-29 13:35:11] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-08-29 13:35:11] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\DELL\AppData\Local\Temp/66d0790faf3cc-06RxPV.tmp
+[2024-08-29 13:35:11] [class-ss-page-handler.php:38] URL Prepared:http://localhost/mystore/mystore/wp-json/wp/v2/product/132?simply_static_page=1705
+[2024-08-29 13:35:11] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/mystore/mystore/wp-json/wp/v2/product/132?simply_static_page=1705
+[2024-08-29 13:35:20] [class-ss-archive-creation-job.php:384] Error: (1) Maximum execution time of 120 seconds exceeded in <b>C:\xampp\htdocs\mystore\mystore\wp-includes\Requests\src\Transport\Curl.php</b> on line <b>510</b>
+[2024-08-29 13:35:20] [class-ss-archive-creation-job.php:324] Status message: [error] Error: (1) Maximum execution time of 120 seconds exceeded in <b>C:\xampp\htdocs\mystore\mystore\wp-includes\Requests\src\Transport\Curl.php</b> on line <b>510</b>
